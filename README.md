@@ -15,24 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
+### About me
 
-## About me
-
-I'm a Full-Stack Software Engineer, mostly developing in Javascript, Node and PHP!
+I work as a Full-Stack Software Engineer, with a primary focus on developing in Javascript, Node, and PHP!
 
 ```javascript
 const a2sa = {
   code: ["Javascript/Typescript", "NodeJs", "GraphQL", "PHP/Laravel", "Python"],
   technologies: {
-    mobileApp: ["iOS App"],
+    mobileApp: ["iOS App", "Cordova"],
     frontEnd: {
       js: ["react", "angular", "vue", "next.js"],
       css: [
         "Tailwind",
         "Bootstrap",
-        "Sass/Scss",
-        "Less",
+        "Sass/Scss/Less",
         "Styled-components",
         "Material-UI",
       ],
@@ -46,53 +43,29 @@ const a2sa = {
       "redux",
       "Context API",
       "RxJS",
-      "VueX (for Vue.js)",
       "NGRX (for Angular)",
-      "Vuex (for Vue.js)",
       "Apollo Client (for GraphQL)",
-      "SWR (for React with remote data fetching)",
       "Redux Toolkit",
-      "Vest (for form state)",
       "RxDB (for offline-first applications)",
     ],
-    servers: [
-      "Cpanel",
-      "AWS",
-      "Google Cloud",
-      "Azure",
-      "Nginx",
-      "Apache",
-      "Firebase",
-    ],
+    servers: ["Cpanel", "AWS", "Google Cloud", "Nginx", "Apache"],
     visualization: ["d3.js", "Tableau", "Chart.js", "Highcharts", "Plotly.js"],
-    devOps: [
-      "Docker",
-      "GitHub Actions",
-      "Jenkins",
-      "Kubernetes",
-      "GitLab CI/CD",
-    ],
+    devOps: ["Docker", "GitHub Actions", "Jenkins", "GitLab CI/CD"],
     databases: ["MySql", "Postgres", "sqlite", "MongoDB"],
   },
   hobbies: [
     "Hiking",
     "Painting & Drawing",
-    "Reading",
+    "Reading & Writing",
     "Coding",
     "Gardening",
     "Cooking",
-    "Playing a Musical Instrument",
     "Swimming",
     "Traveling & Camping",
     "Yoga & Meditation",
-    "Writing",
-    "Learning a New Language",
     "Volunteering",
-    "Watching Movies/TV Shows",
-    "DIY Projects",
     "Collecting (coins & currencies)",
-    "Singing",
-    "Dancing",
+    "Singing & Dancing",
     "Playing Board Games/Card Games",
     "Attending Live Events/Concerts",
   ],
