@@ -98,8 +98,6 @@ const a2sa = {
 
 <!-- hide this until public -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atousa-kouhdel&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=atousa-kouhdel&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atousa-kouhdel&show_icons=true&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atousa-kouhdel&hide_border=true&card_width=400)](https://git.io/streak-stats)
