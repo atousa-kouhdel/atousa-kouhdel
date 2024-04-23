@@ -1,7 +1,13 @@
+<!-- @format -->
+
 <h1>Hola! Nice to see you!</h1>
 
 <p>Welcome to my Github page! </br> I'm Atousa 🌱, a fullstack software engineer.
 🔭 I have a strong passion for software development, leadership, and crafting applications. It's really fulfilling to create software that works seamlessly. I also enjoy guiding teams and figuring out how to design apps. Making sure everything is easy for users is a big priority for me. I like staying updated with the latest tech and trends to keep improving our projects. This combination of technical skills and leadership experience allows me to bring a unique perspective to every project.🌱</p>
+
+## 📫 Contact
+
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/a2sa551/).
 
 ```javascript
 const a2sa = {
@@ -19,7 +25,7 @@ const a2sa = {
       ],
     },
     backEnd: {
-      js: ["node", "express"],
+      js: ["node", "express", "nest.js"],
       PHP: ["laravel"],
       go: ["Go"],
     },
@@ -36,6 +42,7 @@ const a2sa = {
     visualization: ["d3.js", "Tableau", "Chart.js", "Highcharts", "Plotly.js"],
     devOps: ["Docker", "GitHub Actions", "Jenkins", "GitLab CI/CD"],
     databases: ["MySql", "Postgres", "sqlite", "MongoDB"],
+    testing: ["Playwright", "Postman", "Insomnia"],
   },
   hobbies: [
     "Hiking",
